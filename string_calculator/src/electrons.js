@@ -1,5 +1,5 @@
-function ElectronsAroundTheCores() {}
-
-ElectronsAroundTheCores.prototype.calculate = function(dice) {
-    return 6;
+// StringCalculator.js
+function StringCalculator() {}
+StringCalculator.prototype.add = function(string_numbers) {
+	//
 };
