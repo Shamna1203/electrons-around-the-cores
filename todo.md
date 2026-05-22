@@ -2,3 +2,7 @@
 [OK] [2,2,3,3] => 4
 [OK] [6,6,4,4,1,3] => 2
 [OK] [3,5,3,5,4,2] => 12
+
+/*Github 
+https://github.com/Shamna1203/electrons-around-the-cores
+*/
